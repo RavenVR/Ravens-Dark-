@@ -143,8 +143,8 @@ div[class^='sidebar-']>section {
 }
 
 pre code.hljs {
-	border: none;
-	background-color: rgba(30, 0, 70, 0.767);
-	color: rgb(182, 137, 255);
-	padding: 8px;
+    border: none;
+    background-color: rgba(30, 0, 70, 0.767);
+    color: rgb(182, 137, 255);
+    padding: 8px;
 }
