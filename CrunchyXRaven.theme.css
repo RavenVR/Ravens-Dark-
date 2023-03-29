@@ -1,0 +1,149 @@
+/**
+ * @name Dark Matter
+ * @author Tropical#8908, Hammock#3110
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap%27');
+.markup-eYLPri{
+    font-family: 'Arvo', 'sans-serif';
+    color: #dab9ff
+}
+
+:root {
+	--home-image: url('https://media3.giphy.com/media/2uBT7xAkEHN7Li92Hx/200w.webp?cid=ecf05e47b5v2b8nfzh5w12vowexzyrxco3d2c3cmtawkqm1y&rid=200w.webp&ct=g');
+    --background-image: url('https://cdn.discordapp.com/attachments/1053132359047860245/1077904491787071538/VRChat_2023-02-22_16-27-10.043_1920x1080.png');
+}
+.mention{
+    color: #dbdbdb;
+    background-color: rgb(116, 47, 194);
+}
+.username-h_Y3Us{
+    color: #a251ff;
+}
+.fakeLink-1wGafz{
+    color: #7a7a7a;
+}
+.text-sm-normal-3Zj3Iv{
+    color: #c1c4c2;
+}
+.button-12Fmur{
+    color: #c1c4c2;
+}
+.button-1EGGcP{
+    color: #c1c4c2;
+}
+.defaultColor-1EVLSt{
+    color: #c1c4c2;
+}
+.bioTextArea-dDGOeC{
+    color: rgb(133, 133, 133);
+}
+.titleBar-1it3bQ{
+    background-color: #39007a;
+}
+.wordmarkWindows-2dq6rw{
+    color: rgb(255, 255, 255);
+}
+.content-vSHmMD{
+    color: #b676ff;
+}
+.username-3_PJ5r{
+    color: #7f0fff
+}
+.overflow-1wOqNV{
+    color: #c28eff;
+}
+.activityText-ev7Z1T{
+    color: #9f55f3
+}
+.text-sm-normal-AEQz4v{
+    color: #9334ff;
+}
+.customStatus-1UAQAK{
+    color:#d6b1ff;
+}
+.lookBlank-FgPMy6{
+    color: #c28cff;
+}
+.item-2LIpTv{
+    background-color: #a759ff;
+}
+.guilds-2JjMmN{
+    background-color: #160030;
+}
+
+div[data-list-item-id="guildsnav___home"] {
+	background: var(--home-image) top center/110% no-repeat;
+}
+#app-mount [data-list-item-id="guildsnav___home"]>div {
+	color: transparent;
+	background-color: transparent;
+}
+
+body {
+	background: var(--background-image) center/cover no-repeat;
+}
+
+body {
+	background: var(--background-image) center/cover no-repeat;
+}
+
+#app-mount {
+    background-color: rgba(0, 0, 0, 0.678);
+	--background-tertiary: transparent;
+	--background-secondary: transparent;
+}
+
+#app-mount>div[class^="appDevToolsWrapper-"] {
+	--background-primary: transparent;
+	--background-tertiary: transparent;
+	--background-secondary: rgba(var(--black), 0.7);
+	background-color: rgba(var(--black), 0.4);
+}
+
+nav+div [class^='sidebar-'],
+nav+div[class^='base-'] {
+	overflow: visible !important;
+	position: relative;
+	max-width: calc(100% - 72px);
+}
+
+nav+div[class^='base-'] > div[class^="notice"] {
+	border-radius: 0;
+}
+
+div[class^='base-']>div,
+section[class*="themed-"] {
+	--background-secondary: rgba(var(--black), 0.7);
+	--background-tertiary: rgba(var(--white), 0.05);
+	--background-primary: rgba(var(--black), 0.8);
+}
+.sidebar-1tnWFu{
+    background-color: rgba(0, 0, 0, 0.719)
+}
+.scrollableContainer-15eg7h{
+    background-color: #2f0064c4;
+    color: #39007a62;
+}
+.buttonWrapper-3YFQGJ{
+    color: #c28eff
+}
+.attachButtonPlus-3IYelE{
+    color: #c28eff
+}
+div[class^='sidebar-']>section {
+	--background-secondary-alt: rgb(0, 0, 0);
+}
+.text-sm-normal-AEQz4v{
+    color: #a759ff
+}
+.title-1r9MQ6{
+    color: #6300d4
+}
+.input-3O04eu{
+    color: #b676ff;
+}
