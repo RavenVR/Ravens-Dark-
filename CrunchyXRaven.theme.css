@@ -156,7 +156,11 @@ pre code.hljs {
     color: rgb(182, 137, 255);
     padding: 8px;
 }
-.message-2CShn3{
+.cozyMessage-1DWF9U {
+    background-color: #000000bd;
+    border-radius: 40px
+}
+.cozyMessage-1DWF9U:hover {
     background-color: #000000bd;
     border-radius: 40px
 }
