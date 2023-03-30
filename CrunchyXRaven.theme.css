@@ -1,7 +1,7 @@
 /**
  * @name Crunchy X Raven
  * @author RavenVR#6650
- * @version 1.0.0
+ * @version 1.5.0
  * @description Just a thing i made for my BF <3.
  * @source https://github.com/RavenVR/discordtheme
 */
@@ -90,9 +90,6 @@ body {
 	background: var(--background-image) center/cover no-repeat;
 }
 
-body {
-	background: var(--background-image) center/cover no-repeat;
-}
 
 #app-mount {
     background-color: rgba(0, 0, 0, 0.678);
@@ -164,6 +161,18 @@ pre code.hljs {
     background-color: #000000bd;
     border-radius: 40px
 }
-.numberBadge-37OJ3S{
-    background-color: #c28eff;
+.controlIcon-10O-4h{
+    color: #c28eff;
+}
+.heading-md-semibold-2h_vsp{
+    color: #c28cff;
+}
+.iconWrapper-2awDjA{
+    color: #9538ff;
+}
+.wrapper-3kah-n{
+    background-color: #7904ff
+}
+.selected-1Drb7Z{
+    background-color:hsla(268, 100%, 78%, 0.719) ;
 }
